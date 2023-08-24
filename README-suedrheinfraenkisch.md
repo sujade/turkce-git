@@ -79,7 +79,7 @@ Do sinn noch ä paar Vorschläg (Wu ned gonz so ernschd gmoind sinn)
 
 ## Simbl uff Sidreinfrängisch benutzä
 
-Wer's gar ned abwardä konn, do isch'd Olaidung, mid därrä du Simbl uff Sidreinfrängisch än deo Konsol neibringsch. Weil där Simbl koi Umlaud zulassd, missä ma en dennä Kommandos leider dodruff verzichdä. Nemm die Ennarungä än deina `~/.gitconfig` vor:
+Wer's gar ned abwardä konn, do isch'd Olaidung, mid därrä du Simbl uff Sidreinfrängisch än dei Konsol neibringsch. Weil där Simbl koi Umlaud zulassd, missä ma en dennä Kommandos leider dodruff verzichdä. Nemm die Ennarungä än deina `~/.gitconfig` vor:
 
     git config --global alias.mach-uff init
     git config --global alias.mach-noch clone

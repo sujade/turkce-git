@@ -69,13 +69,13 @@ Do sinn noch ä paar Vorschläg (Wu ned gonz so ernschd gmoind sinn)
 
     - Mach ä Ofrog zum ziegä, wenn mid äm zommädo ferdich bisch!
 
-    - Äm beschdä mir pickä und die Rosinä aus'm Dallmäsaschd raus.
+    - Äm beschdä mir pickä un die Rosinä aus'm Dallmäsaschd raus.
 
     - Gawl se än dä Simblzendral!
 
     - Wenn ferdich bisch, konnsch die Ofrog zum ziegä glei zommädriggä un zommädo.
 
-    - Äm Simblbrodokoll konsch lesä, wär zledschd ä zommädriggde Eireichung zommädo had.
+    - Äm Simblbrodokoll konsch guggä, wär zledschd ä zommädriggde Eireichung zommädo had.
 
 ## Simbl uff Sidreinfrängisch benutzä
 

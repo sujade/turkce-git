@@ -69,7 +69,7 @@ Do sinn noch ä paar Vorschläg (Wu ned gonz so ernschd gmoind sinn)
 
     - Mach ä Ofrog zum ziegä, wenn mid äm zommädo ferdich bisch!
 
-    - Äm beschdä mir pickä un die Rosinä aus'm Dallmäsaschd raus.
+    - Äm beschdä mir pickä uns die Rosinä aus'm Dallmäsaschd naus.
 
     - Gawl se än dä Simblzendral!
 

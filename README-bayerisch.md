@@ -27,7 +27,7 @@ Do sigst zwoa Tabein mit Vorschlägen de ma jeden Dog hernehma ko.
 | tag         | taggen             | makian                |
 | cherry-pick | cherry-picken      | Weibierl rausbicka    |
 | checkout    | checkouten         | nehma                 |
-| blame       | blamen             | nohenga               |
+| blame       | blamen             | hihenga               |
 
 | Substantiv    | Derzeit werd gnoma | Vorschlog            |
 |---------------|--------------------|----------------------|
@@ -84,7 +84,7 @@ Wer den nextn Schrid macha mog, do is a Anleitung, de Doldi auf Boarisch in Dei 
     git config --global alias.nehma checkout
     git config --global alias.tagebuach log
     git config --global alias.zuastand status
-    git config --global alias.nohenga blame
+    git config --global alias.hihenga blame
 
 Dann duast de Zeilen do in dei `~/.bashrc` (oda wost hoid sunst hernimmst auf deina Kistn):
 

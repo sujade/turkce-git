@@ -99,10 +99,12 @@ Bu işi bir üst seviyeye taşımak istiyorsan ve Salağı Türkçe kullanmak is
     git config --global alias.kutuk log
     git config --global alias.durum status
     git config --global alias.sucla blame
+    git config --global alias.uzaktan remote
+
 
 Aşağıdaki kısmı da `~/.bashrc` (ya da işletim sistemine göre ne kullanıyorsan) ekle:
 
-    alias depp=git
+    alias salak=git
 
 kaynak: https://github.com/danielauener/git-auf-deutsch.git
 

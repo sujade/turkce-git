@@ -7,7 +7,7 @@ bunun bazı örnekleri.
 
 Bu yüzden sizler için Türkçe Git'i hazırladım!
 Daha doğrusu git-auf-deutsch'tan _"çatalladım"_.
-(Lütfen _fazla_ ciddiye almayın. <3")
+(Lütfen _fazla_ ciddiye almayın. <3)
 
 ## Öneriler
 

@@ -1,12 +1,12 @@
 # Türkçe Git
 
 Günlük iletişimde Türkçe konuşan geliştiriciler genelde `git`i
-(`Mankafa` oder `Salak`) genelde plaza Türkçesi şeklinde kullanıyor.
+(`Mankafa` ya da `Salak`) genelde plaza Türkçesi şeklinde kullanıyor.
 _"Pullayabilir misin acaba?"_ ya da  _"Pushladın mı? Bir saattir bekliyorum"_ 
 bunun bazı örnekleri.
 
 Bu yüzden sizler için Türkçe Git'i hazırladım!
-(Daha doğrusu git-auf-deutsch'tan _"forkladım"_.)
+Daha doğrusu git-auf-deutsch'tan _"çatalladım"_.
 (Lütfen _fazla_ ciddiye almayın. <3")
 
 ## Öneriler
@@ -27,7 +27,7 @@ Aşağıdaki tabloda hem günlük kullanımlar hem de öneriler yer alıyor.
 | rebase      | rebaselemek        | (yeniden) temel atmak |
 | diff        | difflemek          | ayırt etmek           |
 | merge       | mergelemek         | birleştirmek          |
-| fork        | forklamak          | çatallandırmak        |
+| fork        | forklamak          | çatallamak            |
 | stash       | stashlemek         | zulalamak             |
 | tag         | taglemek           | işaretlemek           |
 | cherry-pick | cherry-picklemek   | kiraz seçmek          |
@@ -71,7 +71,7 @@ Aşağıdaki tabloda hem günlük kullanımlar hem de öneriler yer alıyor.
     
     - En iyisi ana daldan kiraz toplayalım.
 
-    - Salak Merkezinden çatallandır.
+    - Salak Merkezinden çatalla.
     
     - İşin bitince çekme isteğini hemen ezip birleştirebilirsin.
     

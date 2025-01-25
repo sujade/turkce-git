@@ -47,7 +47,7 @@ Aşağıdaki tabloda hem günlük kullanımlar hem de öneriler yer alıyor.
 | branch        | branch             | Dal                        |
 | log           | log                | Kütük                      |
 | pull request  | pull request       | Çekme İsteği               |
-| merge request | merge request      | Birleçtirme İsteği         |
+| merge request | merge request      | Birleştirme İsteği         |
 | stash         | stash              | Zula                       |
 | status        | status             | Durum                      |
 | tag           | tag                | Etiket                     |

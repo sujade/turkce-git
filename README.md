@@ -35,7 +35,7 @@ Aşağıdaki tabloda hem günlük kullanımlar hem de öneriler yer alıyor.
 | squash      | squashlamak        | ezmek                 |
 
 
-| İsim          | Aktueller Gebrauch | Vorschlag                  |
+| İsim          | Günlük Kullanım    | Öneri                      |
 |---------------|--------------------|----------------------------|
 | git           | git                | Salak                      |
 | github        | github             | Salak Merkezi              |

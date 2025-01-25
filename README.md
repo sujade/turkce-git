@@ -30,7 +30,7 @@ Aşağıdaki tabloda hem günlük kullanımlar hem de öneriler yer alıyor.
 | fork        | forklamak          | çatallamak            |
 | stash       | stashlemek         | zulalamak             |
 | tag         | taglemek           | işaretlemek           |
-| cherry-pick | cherry-picklemek   | kiraz seçmek          |
+| cherry-pick | cherry-picklemek   | kiraz toplamak        |
 | checkout    | checkoulamak       | teslim almak          |
 | squash      | squashlamak        | ezmek                 |
 

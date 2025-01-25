@@ -105,3 +105,5 @@ Aşağıdaki kısmı da `~/.bashrc` (ya da işletim sistemine göre ne kullanıy
     alias depp=git
 
 kaynak: https://github.com/danielauener/git-auf-deutsch.git
+
+Önerileriniz için issue açabilirsiniz.

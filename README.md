@@ -1,106 +1,107 @@
-# Git auf Deutsch
+# Türkçe Git
 
-Die tägliche Kommunikation in deutschen Entwicklungsteams, die `git`
-(übersetzt: `Schwachkopf` oder `Depp`) anwenden, ist oft das feinste Denglish.
-_"Kannst du bitte pullen"_ oder _"Hast du gepusht"_ sind nur zwei
-der oft seltsam klingenden Konstruktionen.
+Günlük iletişimde Türkçe konuşan geliştiriciler genelde `git`i
+(`Mankafa` oder `Salak`) genelde plaza Türkçesi şeklinde kullanıyor.
+_"Pullayabilir misin acaba?"_ ya da  _"Pushladın mı? Bir saattir bekliyorum"_ 
+bunun bazı örnekleri.
 
-Git auf Deutsch schafft Abhilfe!
+Bu yüzden sizler için Türkçe Git'i hazırladım!
+(Daha doğrusu git-auf-deutsch'tan _"forkladım"_.)
+(Lütfen _fazla_ ciddiye almayın. <3")
 
-## Vorschläge
+## Öneriler
 
-Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
+Aşağıdaki tabloda hem günlük kullanımlar hem de öneriler yer alıyor.
 
-| Verb        | Aktueller Gebrauch | Vorschlag             |
+| Fiil        | Günlük Kullanım    | Öneri                 |
 |-------------|--------------------|-----------------------|
-| init        | initten            | eröffnen              |
-| add         | adden              | hinzufügen            |
-| blame       | blamen             | beschuldigen          |
-| pull        | pullen             | ziehen                |
-| push        | pushen             | schieben              |
-| clone       | clonen             | nachmachen            |
-| fetch       | fetchen            | holen                 |
-| branch      | branchen           | abzweigen             |
-| commit      | commiten           | einbuchen             |
-| rebase      | rebasen            | (neu) erden           |
-| diff        | diffen             | unterscheiden         |
-| merge       | mergen             | zusammenführen        |
-| fork        | forken             | abzweigen             |
-| stash       | stashen            | verstauen             |
-| tag         | taggen             | markieren             |
-| cherry-pick | cherry-picken      | Rosinen herauspicken  |
-| checkout    | checkouten         | ausbuchen             |
-| squash      | squashen           | quetschen             |
+| init        | initlemek          | açmak                 |
+| add         | addlemek           | eklemek               |
+| blame       | blamelemek         | suçlamak              |
+| pull        | pullamak           | çekmek                |
+| push        | pushlamak          | itmek                 |
+| clone       | clonelamak         | nüsha almak           |
+| fetch       | fetchlemek         | getirmek              |
+| branch      | branchlemek        | dallandırmak          |
+| commit      | commitlemek        | işlemek               |
+| rebase      | rebaselemek        | (yeniden) temel atmak |
+| diff        | difflemek          | ayırt etmek           |
+| merge       | mergelemek         | birleştirmek          |
+| fork        | forklamak          | çatallandırmak        |
+| stash       | stashlemek         | zulalamak             |
+| tag         | taglemek           | işaretlemek           |
+| cherry-pick | cherry-picklemek   | kiraz seçmek          |
+| checkout    | checkoulamak       | teslim almak          |
+| squash      | squashlamak        | ezmek                 |
 
-Hier noch einige (zum Teil nicht ganz ernste)
 
-| Substantiv    | Aktueller Gebrauch | Vorschlag                  |
+| İsim          | Aktueller Gebrauch | Vorschlag                  |
 |---------------|--------------------|----------------------------|
-| git           | git                | Depp                       |
-| github        | github             | Deppenzentrum              |
-| gitlab        | gitlab             | Deppenlabor                |
-| gitea         | gitea              | Deppentee                  |
-| blame         | blame              | Beschuldigung              |
-| bitbucket     | bitbucket          | Gebisseimer                |
-| repository    | repo               | Depot                      |
-| branch        | branch             | Zweig                      |
-| commit        | commit             | Einbuchung                 |
-| log           | log                | Tagebuch                   |
-| pull request  | pull request       | Ziehbegehren               |
-| merge request | merge request      | Antrag auf Zusammenführung |
-| stash         | stash              | Versteck                   |
-| status        | status             | Zustand                    |
-| tag           | tag                | Markierung                 |
-| origin        | origin             | Ursprung                   |
-| master        | master             | Meister                    |
-| main          | main               | Haupt                      |
+| git           | git                | Salak                      |
+| github        | github             | Salak Merkezi              |
+| gitlab        | gitlab             | Salak Laboratuvarı         |
+| gitea         | gitea              | Salak Çayı                 |
+| blame         | blame              | Suçlamak                   |
+| bitbucket     | bitbucket          | Kırıntı Kovası             |
+| repository    | repo               | Depo                       |
+| branch        | branch             | Dal                        |
+| log           | log                | Kütük                      |
+| pull request  | pull request       | Çekme İsteği               |
+| merge request | merge request      | Birleçtirme İsteği         |
+| stash         | stash              | Zula                       |
+| status        | status             | Durum                      |
+| tag           | tag                | Etiket                     |
+| origin        | origin             | Kaynak                     |
+| master        | master             | Efendi                     |
+| main          | main               | Ana                        |
 
-## Beispiele
+## Örnekler
 
-    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Deppenzentrum drücken?
-
-    - Dafür habe ich ein neues Depot eröffnet, mach sie nach und nimm dir den Entwicklungszweig.
-
-    - Nein, drücke das gleich zum Meister im Ursprung!
+    - Şu üzerinde çalıştığım dalı çekip Salak Merkezine gönderir misin?
     
-    - Du kannst in der Deppenbeschuldigung sehen, wer das geändert hat.
+    - Ya ben onun için yeni depo açmıştım, nüshasını alıp geliştirme dalına göndersene.
 
-    - Ich hab gerade abgezweigt und die Änderungen aus meinem Versteck übergeben.
-
-    - Mach ein Ziehbegehren, wenn du mit der Vereinigung fertig bist!
-
-    - Am besten wir picken uns die Rosinen aus dem Hauptzweig heraus.
-
-    - Gabeln Sie im Deppenzentrum!
+    - Olmaz hocam, anadaki efendiye gönder.
     
-    - Wenn du fertig bist, dann kannst du das Ziehbegehren sofort quetschen und zusammenführen.
+    - Ne değiştiğini görmek için salak suçlamasına bakabilirsin.
+
+    - Daha şimdi dallandırdım ve değişiklikleri benim zulaya yazdım.
+
+    - Birleştirme işin bittiyse bir çekme isteği aç.
     
-    - Im Deppentagebuch kannst du nachlesen, wer zuletzt eine gequetschte Einbuchung zusammengeführt hat.
+    - En iyisi ana daldan kiraz toplayalım.
 
-## Depp auf Deutsch anwenden
+    - Salak Merkezinden çatallandır.
+    
+    - İşin bitince çekme isteğini hemen ezip birleştirebilirsin.
+    
+    - Salak kütüğüne bakıp en son kimin ezilmiş bir işlemeyi birleştirdiğini görebilirsin.
 
-Wer den nächsten Schritt machen will, hier eine Anleitung, die Depp auf Deutsch in Deine Konsole bringt. Da Depp keine Umlaute zulässt, müssen wir in den Befehlen leider darauf verzichten. Nimm folgende Änderungen in deiner `~/.gitconfig` vor:
+## Salağı Türkçe kullanmak
 
-    git config --global alias.eroeffne init
-    git config --global alias.machnach clone
-    git config --global alias.zieh pull
-    git config --global alias.fueghinzu add
-    git config --global alias.drueck push
-    git config --global alias.pfusch 'push --force'
-    git config --global alias.zweig branch
-    git config --global alias.verzweige branch
-    git config --global alias.buche-ein commit
-    git config --global alias.erde rebase
-    git config --global alias.unterscheide diff
-    git config --global alias.vereinige merge
-    git config --global alias.bunkere stash
-    git config --global alias.markiere tag
-    git config --global alias.buche-aus checkout
-    git config --global alias.tagebuch log
-    git config --global alias.zustand status
-    git config --global alias.beschuldige blame
+Bu işi bir üst seviyeye taşımak istiyorsan ve Salağı Türkçe kullanmak istiyorsan aşağıdaki değişikleri `~/.gitconfig` dosyana ekleyebilirsin:
 
-Und füge die folgende Zeile zu deiner `~/.bashrc` (oder das Äquivalent auf deinem Betriebssystem) hinzu:
+    git config --global alias.ac init
+    git config --global alias.nusha clone
+    git config --global alias.cek pull
+    git config --global alias.ekle add
+    git config --global alias.it push
+    git config --global alias.zorla-it 'push --force'
+    git config --global alias.dal branch
+    git config --global alias.dallandir branch
+    git config --global alias.isle commit
+    git config --global alias.temel-at rebase
+    git config --global alias.ayirt-et diff
+    git config --global alias.birlestir merge
+    git config --global alias.zulala stash
+    git config --global alias.etiketle tag
+    git config --global alias.teslim-al checkout
+    git config --global alias.kutuk log
+    git config --global alias.durum status
+    git config --global alias.sucla blame
+
+Aşağıdaki kısmı da `~/.bashrc` (ya da işletim sistemine göre ne kullanıyorsan) ekle:
 
     alias depp=git
-https://github.com/danielauener/git-auf-deutsch.git
+
+kaynak: https://github.com/danielauener/git-auf-deutsch.git
